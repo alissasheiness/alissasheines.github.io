@@ -6,8 +6,7 @@
 
 body {
 	background-color: #ffff00; /*background color yellow*/
-	background-image: url("../images/strange-bullseyes.png");
+	background-image: url("../images/diagonal-striped-brick.png");
 	background-repeat: repeat;
-	background-size: 10px 10px;
 }
 
